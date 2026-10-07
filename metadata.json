@@ -1,0 +1,6 @@
+{
+  "name": "CleanClip AI Studio",
+  "description": "Video Watermark & Inpainting Engine Architecture, Interactive Simulator, and Full-Stack Codebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
